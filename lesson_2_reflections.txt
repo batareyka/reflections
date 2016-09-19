@@ -32,6 +32,11 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+    
+    The result is a new commit and a new version of the code which is combined 
+    from two or more sources/branches. Diagram is a good way to present the result 
+    of merging because it clearly shows which brunches commits belong to, so it's 
+    easy to keep track of changes.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?

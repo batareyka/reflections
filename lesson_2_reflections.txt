@@ -45,3 +45,5 @@ manually?
     run together. But git is controlling this by alerting the user of potential conflicts. 
     Manual merging is likely less prone to logical errors, but is time consuming and 
     could cause manual errors.
+    
+A fake line just to test out the new core.editor command

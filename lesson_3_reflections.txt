@@ -25,3 +25,9 @@ What is the benefit of having a copy of the last known state of the remote store
   To make sure you incorporate other people's work (or your own work done from a different computer) 
   as soon as possible - easier to merge branches and resolve conflicts when there are fewer changes. 
   You can also push update to GitHub at any time since you are in sync.
+  
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  Send code over email back and forth... Would be harder to track different versions and easily revert 
+  to them. Would be hard to work on the same project at the same time with other contributors. Would 
+  be easier not to have to save your commits all the time and spend time on documenting what was changed.

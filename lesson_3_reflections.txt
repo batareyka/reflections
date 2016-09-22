@@ -19,3 +19,9 @@ Describe the differences between forks, clones, and branches. When would you use
   Fork is like cloning a git repository, but the copying happens from someone's GitHub repository to 
   someone else's repository. You would do this when you want to use someone else's code but still want 
   to give them credit for original work.
+  
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  To make sure you incorporate other people's work (or your own work done from a different computer) 
+  as soon as possible - easier to merge branches and resolve conflicts when there are fewer changes. 
+  You can also push update to GitHub at any time since you are in sync.

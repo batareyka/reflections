@@ -8,3 +8,14 @@ stay up-to-date with your remote repository?
   
   To make sure changes that are not ready to be public yet don't become public. To make sure 
   you share the right branch and not your experimental code.
+  
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+  
+  A branch exists in a git repository, it groups together certain commits. You would use a branch 
+  when you want to work on an experimental feature or test something. You would also use it 
+  if you want to have a version of your project that is different from the main version in production.
+  Clone is a copy of a git repository. You would use clone when you need to have a copy of a git 
+  repository from GitHub, someone else's computer or your own computer on your computer.
+  Fork is like cloning a git repository, but the copying happens from someone's GitHub repository to 
+  someone else's repository. You would do this when you want to use someone else's code but still want 
+  to give them credit for original work.

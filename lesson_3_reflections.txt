@@ -31,3 +31,12 @@ How would you collaborate without using Git or GitHub? What would be easier, and
   Send code over email back and forth... Would be harder to track different versions and easily revert 
   to them. Would be hard to work on the same project at the same time with other contributors. Would 
   be easier not to have to save your commits all the time and spend time on documenting what was changed.
+  
+When would you want to make changes in a separate branch rather than directly in master? What benefits 
+does each approach have?
+
+  When the change is substantial and risky, you want to make it in a separate branch to allow other 
+  people to review and approve it before you add it to your master. Making a change directly in 
+  mater requires much fewer steps in order to incorporate it. However, creating a separate branch 
+  ensures that all the collaborators are aware of the change, they get a chance to reviw it and 
+  leave their feedback.
